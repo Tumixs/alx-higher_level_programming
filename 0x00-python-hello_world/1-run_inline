@@ -1,4 +1,3 @@
 #!/bin/bash
 echo $PYCODE > ./new
 python3 ./new
-
