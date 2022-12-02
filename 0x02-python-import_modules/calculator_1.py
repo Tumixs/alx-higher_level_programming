@@ -2,15 +2,16 @@
 def add(a, b):
     """My addition function
 
-    Args: 
+    Args:
         a: first integer
         b: second integer
 
     Returns:
         The return value. a + b
     """
-    
+
     return (a + b)
+
 
 def sub(a, b):
     """My subtraction function
@@ -18,12 +19,13 @@ def sub(a, b):
     Args:
         a: first integer
         b: second integer
-    
-    Returns: 
+
+    Returns:
         The return value. a - b
     """
 
     return (a - b)
+
 
 def mul(a, b):
     """My multiplication function
@@ -32,21 +34,22 @@ def mul(a, b):
         a: first integer
         b: second integer
 
-    returns: 
+    returns:
         The return value. a * b
     """
 
-    return (a* b)
+    return (a * b)
+
 
 def div(a, b):
-    """My divison function 
+    """My divison function
 
-    Args: 
+    Args:
         a: first integer
         b: second integer
 
-    Returns: 
+    Returns:
         The return value. a / b
     """
-    
+
     return (a / b)
